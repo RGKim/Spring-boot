@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: user-microservice-server
 Implementation-Version: 0.0.1
-Built-By: Artur
+Built-By: Administrator
 Implementation-Vendor-Id: br.com.t4k
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_141
 Implementation-URL: http://projects.spring.io/spring-boot/user-microse
  rvice-server/
 Created-By: Maven Integration for Eclipse
