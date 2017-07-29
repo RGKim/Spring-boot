@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: user-microservice-server
 Implementation-Version: 0.0.1
-Built-By: Administrator
+Built-By: heeho
 Implementation-Vendor-Id: com.eightlegged.ksy
 Build-Jdk: 1.8.0_141
 Implementation-URL: http://projects.spring.io/spring-boot/user-microse
